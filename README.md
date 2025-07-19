@@ -5,39 +5,52 @@
   />
 </div>
 
-<div align="center">
-    <img 
-        src="https://streak-stats.demolab.com?user=phil-development&theme=github-dark-blue&ring=6CB4EE&fire=6CB4EE&currStreakNum=6CB4EE&sideNums=6CB4EE&currStreakLabel=6CB4EE&sideLabels=6CB4EE&dates=CCCCCC&hide_border=true" 
-        alt="GitHub Streak"
-        style="border: 1px solid #444; border-radius: 4px;" 
-    />
-    <br />
-    <br />
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=phil-development&layout=compact&theme=github_dark&hide_border=true" 
-        alt="Top Languages"
-        style="border: 1px solid #444; border-radius: 4px;" 
-    />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=phil-development&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" 
+    alt="GitHub Stats" 
+    height="180" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phil-development&layout=compact&theme=github_dark&hide_border=true" 
+    alt="Top Languages" 
+    height="180" 
+  />
+
 </div>
+
 
 <br />
 
 # Filipe Vasconcelos Vilarino
 
-Desenvolvedor com perfil autodidata, apaixonado por tecnologia e resolução de problemas.  
-Atuo no desenvolvimento de aplicações completas — frontend, backend e bancos de dados — aplicando boas práticas, testes e arquitetura limpa.
+<details open> 
+<summary>💻 Sobre mim</summary>
+
+<br>
+
+Sou estudante de **Engenharia de Software** no Instituto Infnet, com **4 anos de experiência prática** em desenvolvimento full stack. Iniciei minha jornada aos 15 anos, com foco em tecnologias front end, dominando **HTML, CSS e JavaScript**, além de frameworks como **ReactJS, React Native e TypeScript**.
+
+Com o tempo, ampliei meus conhecimentos para o back end, estudando **Node.js, Express, Python, Java e Spring Boot**. Também desenvolvi habilidades em bancos de dados relacionais como **MySQL, SQL Server, PostgreSQL**, e não relacionais, como **MongoDB, Firebase e Supabase**.
+
+Atualmente, busco oportunidades para aplicar e expandir meu conhecimento em ambientes desafiadores, com foco no desenvolvimento full stack.
+
+</details>
+
+
+### Contato
 
 ---
 
-🎓 Engenharia de Software • Instituto Infnet  
-💻 Desenvolvedor Full Stack • Autodidata  
-📫 contato@filipevilarino.com.br
+📫 contato@filipevilarino.com.br <br>
+📱 (63) 9 9949-5059
 
 ---
 
 [![GitHub](https://img.shields.io/badge/GitHub-phil--development-181717?style=flat&logo=github)](https://github.com/phil-development)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-filipe--vilarino-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/filipe-vilarino-a53286283/)
-
 
 ### Frontend
 
@@ -72,12 +85,9 @@ Atuo no desenvolvimento de aplicações completas — frontend, backend e bancos
   <img src="https://img.shields.io/badge/Supabase-1e1e1e?style=flat-square&logo=supabase&logoColor=3ECF8E"/>
 </p>
 
+## 🎓 Formação  
 
-### 🎓 Formação
-
----
-
-- 🎓 **Engenharia de Software** – Instituto Infnet *(Cursando: 2023–2027)*
-- 🧠 **Técnico em Redes de Computadores** – IFTO Araguatins *(Concluído: 2021–2023)*
-
----
+> | **Curso** | **Instituição** | **Período** |
+> |-----------|-----------------|-------------|
+> | 🎓 **Engenharia de Software** | [Instituto Infnet](https://www.infnet.edu.br) | ✅ **Cursando** (2023 – 2027) |
+> | 🧠 **Técnico em Redes de Computadores** | [IFTO Araguatins](https://www.ifto.edu.br/araguatins) | 🎯 **Concluído** (2021 – 2023) |
