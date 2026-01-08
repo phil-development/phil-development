@@ -5,23 +5,6 @@
   />
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=phil-development&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" 
-    alt="GitHub Stats" 
-    height="180" 
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phil-development&layout=compact&theme=github_dark&hide_border=true" 
-    alt="Top Languages" 
-    height="180" 
-  />
-
-</div>
-
-
 <br />
 
 # Filipe Vasconcelos Vilarino
